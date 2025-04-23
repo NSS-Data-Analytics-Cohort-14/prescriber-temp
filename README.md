@@ -15,4 +15,6 @@ Note that some zip codes will be associated with multiple fipscounty values in t
 
 Feel free to include any additional data sets, but it is not a requirement.
 
-With your group, create a 10 minute presentation addressing these questions.
+With your group, create a 7-10 minute presentation addressing these questions.
+
+updated : 4/22/2025
